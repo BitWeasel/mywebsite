@@ -1,0 +1,21 @@
+name: BitWeasel
+markdown: redcarpet
+future: true
+highlighter: pygments
+github: https://www.github.com/BitWeasel
+twitter: btwsl
+email: christiaan@bitweasel.net
+about: I am an independent privacy and security researcher from The Netherlands. <br> In my off time I enjoy putting my body through extremes with rock climbing, krav maga, half marathons, and strong coffee. <br> <a href='http://bitweasel.net/pgp'><br>CF2E 632D A1B8 85BF 7165 <br> A4B8 89AF 820C DD6B 6696</a>
+
+urls:
+    - text: BitWeasel.net
+      url: http://bitweasel.net
+    - text: github
+      url: https://github.com/BitWeasel
+    - text: twitter
+      url: https://twitter.com/btwsl
+    - text: email
+      url: mailto:christiaan@bitweasel.net
+    - text: linkedIn
+      url: https://www.linkedin.com/in/hcbhillen
+baseurl: ''
